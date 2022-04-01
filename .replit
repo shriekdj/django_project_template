@@ -1,2 +1,2 @@
 language = "python3"
-run = "poetry run python manage.py runserver"
+run = "poetry run python ./src/manage.py runserver"
