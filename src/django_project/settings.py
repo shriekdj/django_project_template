@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ni2hzh6ex_ohunqr$p9bdcutmkv=8*^!^(l!@4rs$=cof77(uu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -121,3 +121,6 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# The Variable Added for Running under the Replit Change It In Future as Same as Allowed hosts Read more at https://docs.djangoproject.com/en/4.0/ref/settings/#csrf-trusted-origins
+CSRF_TRUSTED_ORIGINS = ['*']
