@@ -3,6 +3,9 @@ This is Template of Django Project Run or Deploy the Django Project In Services 
 
 This Repository Can Be Used as a Template for a Django Project On Services like Replit, Heroku and some Projects Will Be Added.
 
+## List of Requirements
+- `Django` == 4.0.3
+- `Python` >= 3.8
+
 ## List of Services
-- **Replit** : Docs Link Will Be Created
-Django
+- **Replit** : Docs Link Will Be Created Need to Wait
