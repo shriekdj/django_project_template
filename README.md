@@ -5,3 +5,4 @@ This Repository Can Be Used as a Template for a Django Project On Services like 
 
 ## List of Services
 - **Replit** : Docs Link Will Be Created
+Django
