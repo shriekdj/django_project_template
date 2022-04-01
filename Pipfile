@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 Django = "==4.0.3"
+gunicorn = "*"
 
 [dev-packages]
 

@@ -1,1 +1,1 @@
-web: gunicorn gettingstarted.wsgi
+web: gunicorn gettingstarted.wsgi 0.0.0.0:5000
