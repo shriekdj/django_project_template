@@ -127,7 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# For Some time not using the poetry
-poetry.lock
-pyproject.toml
