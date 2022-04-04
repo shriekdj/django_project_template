@@ -10,5 +10,5 @@ This Repository Can Be Used as a Template for a Django Project On Services like 
 ## Same Project is Able to Run Under All The Services Given Below
 
 ## List of Services
-- **Replit** : Docs Link Will Be Created Need to Wait
-- **Heroku** : Docs Link Will Be created 
+- **Replit** : [Installation on Replit Docs](./docs/running_on_replit/installation.md)
+- **Heroku** : Docs Link Will Be created Need to Wait
